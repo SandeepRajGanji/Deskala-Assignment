@@ -9,4 +9,5 @@ Open two terminals.
     
 -->Starting React application on second terminal 
     1.cd frontend
-    2.npm start
+    2.npm install
+    3.npm start
