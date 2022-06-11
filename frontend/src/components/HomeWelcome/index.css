@@ -1,0 +1,23 @@
+.welcome-container{
+    font-family: "Arial";
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.welcome-heading{
+    color:#00BFFF;
+    font-size: 24px;
+}
+.link{
+    text-decoration: none;
+}
+.controller-button{
+    background-color: #00BFFF;
+    color:#ffffff;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 10px;
+    border:none;
+}
