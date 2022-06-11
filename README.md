@@ -3,9 +3,10 @@
 Commands to follow up:
 Open two terminals.
 
--->Starting backend server on terminal 1
+-->Starting backend server on first terminal 
     1.cd backend
     2.npm run server
--->Starting React application on terminal 2
+    
+-->Starting React application on second terminal 
     1.cd frontend
     2.npm start
